@@ -63,10 +63,6 @@ src/
 - Node.js 18+ 
 - npm or yarn
 
-### Installation
-```bash
-npm install
-```
 
 ### Development Server
 ```bash
